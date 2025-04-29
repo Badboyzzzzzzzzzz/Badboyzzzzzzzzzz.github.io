@@ -9,7 +9,7 @@ const projects = [
     title: "Tourism app",
     description: "School Project",
     image: Dertam,
-    link: "https://github.com/Sreanghourhy/Final_Project_Year2_Term3",
+    link: "https://github.com/kakkannika/Capstone-Project",
     tech: ["Flutter/Dart", "Firebase",]
   },
   {
@@ -17,7 +17,7 @@ const projects = [
     title: "Coffee management system",
     description: "Personal Project",
     image: Coffee,
-    link: "https://github.com/Ade-mir/company-landing-page-2",
+    link: "https://github.com/Badboyzzzzzzzzzz/Coffee_Mood_System",
     tech: ["Bootstrap/HTML", "PHP"]
   },
 ];
